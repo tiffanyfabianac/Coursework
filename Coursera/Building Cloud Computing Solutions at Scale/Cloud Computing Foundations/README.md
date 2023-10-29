@@ -14,6 +14,7 @@ This material is created as part of course 1 or 4 in the Building Cloud Computin
 - Name a couple project planning methods
 - What are the project management anti-patterns?
 - What is continuous integration and why do you care about it?
+- Name 7 types of tests
 
 ## Important Concepts:
 - Effective Technical Discussions
@@ -54,6 +55,7 @@ This material is created as part of course 1 or 4 in the Building Cloud Computin
     - Create virtual machine
   - Python Project Scaffold
     - Create Make File - requirements.txt - hello.py - text_hello.py - virtual environment
+   - Types of tests: Unit (low level), Integration (different modules/services work well together), Functional (verifying business requirements), End-to-End (mimic users), Acceptance testing (formal verification that app forms), Performance (how the app works under load), Exploratory (sanity check to ensure things are working) 
 
 ## Recommended Additional Learning Material
 - Teamwork: What must go right, what can go wrong by Larson and LaFasto
